@@ -7,3 +7,7 @@ This task involves allowing patients to register on the platform by providing de
 This task involves allowing patients to edit their personal profile information such as name, email, password, and contact details.
 **Status: Implemented**
 
+## T-5: Patient - View Prescriptions
+This task allow patients to view their prescriptions
+** Status : Implemented**
+ 
